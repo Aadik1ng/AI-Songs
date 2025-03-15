@@ -37,9 +37,7 @@ This project is an AI-powered song generator that integrates a FastAPI backend w
    ````bash
    git clone https://github.com/Aadik1ng/AI-Songs.git
    cd AI-Songs
-   ````bash
-
-
+   
 ## Check for an existing virtual environment (env). If not present, it will create one.
 
 **Activate the virtual environment.**
